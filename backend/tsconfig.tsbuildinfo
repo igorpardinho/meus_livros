@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/database.ts","./src/errors/notfounderror.ts","./src/middlewares/errorhandler.ts","./src/modules/books/book.controller.ts","./src/modules/books/book.model.ts","./src/modules/books/book.routes.ts","./src/modules/books/book.schemas.ts","./src/modules/books/book.service.ts"],"version":"5.9.2"}
